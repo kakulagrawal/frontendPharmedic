@@ -41,7 +41,7 @@ const Footer = () => {
       <div>
         <hr className="text-gray-400" />
         <p className="py-5 text-sm text-center">
-          Copyright 2025@ Sumaiya Hossain Surovi - All Right Reserved
+          Copyright 2026@ Kakul Agrawal - All Right Reserved
         </p>
       </div>
     </div>
