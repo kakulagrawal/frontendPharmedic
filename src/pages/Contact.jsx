@@ -24,7 +24,7 @@ const Contact = () => {
             Kha 224, Bir Uttam Rafiqul Islam Ave, Dhaka 1212, BD
           </p>
           <p className=" text-gray-500">
-            Tel: (415) 555-0132 <br /> Email: sumaiya.hossain.surovi@gmail.com
+            Tel: (415) 555-0132 <br /> Email: kakulagrawal14@gmail.com
           </p>
           <p className=" font-semibold text-lg text-gray-600">
             CAREERS AT PRESCRIPTO
