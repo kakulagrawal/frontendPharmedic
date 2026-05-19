@@ -17,6 +17,8 @@ import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import Verify from "./pages/Verify";
 import MyOrders from "./pages/MyOrders";
+import Payment from "./pages/Payment";
+import CartPayment from "./pages/CartPayment";
 
 const App = () => {
   return (
@@ -42,6 +44,8 @@ const App = () => {
         <Route path="/drugstore/:category" element={<DrugStore />} />
         <Route path="/verify" element={<Verify />} />
         <Route path="/my-cart" element={<MyCart />} />
+        <Route path="/payment/:docId" element={<Payment />} />
+        <Route path="/cart-payment" element={<CartPayment />} />
       </Routes>
       <Footer />
     </div>
